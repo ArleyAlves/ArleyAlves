@@ -1,6 +1,6 @@
 ### Hello World, I'm Arley 👋
 
-## Analista Contábil,  <br> Foco em Business Intelligence & Análise de Dados
+## Analista Contábil  <br> Foco em Business Intelligence & Análise de Dados
 
 Sobre mim:
 
