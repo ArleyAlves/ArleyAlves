@@ -50,7 +50,6 @@ Principais entregas e recursos implementados:
 [Clique aqui](https://app.powerbi.com/view?r=eyJrIjoiYjNmZGMyM2UtYmRiZS00N2MwLWEyMmYtMzMwZTIyMDgyNmQ1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9) e navegue no dashboard interativo online.  
 [Clique aqui](https://github.com/ArleyAlves/powerbi-performance-comercial-contoso) e acesse o repositório completo no GitHub.
 
-<br clear="both"/>
 
 ---
 
